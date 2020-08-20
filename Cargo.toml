@@ -7,5 +7,5 @@ description = "A crate for creating boxed slices"
 repository = "https://github.com/clavin/boxchop"
 homepage = "https://github.com/clavin/boxchop"
 license = "MIT"
-keywords = ["boxed slice"]
+keywords = ["boxed-slice"]
 readme = "README.md"
