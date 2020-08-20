@@ -1,0 +1,9 @@
+[package]
+name = "boxchop"
+version = "0.1.0"
+authors = ["clavin <clavin@users.noreply.github.com>"]
+edition = "2018"
+description = "A crate for creating boxed slices"
+repository = "https://github.com/clavin/boxchop"
+license = "MIT"
+keywords = ["boxed slice"]
